@@ -1,0 +1,4 @@
+﻿Designator;Footprint;Mid X;Mid Y;Ref X;Ref Y;Pad X;Pad Y;Layer;Rotation;Comment
+A;WIRE-PAD_ROUND-.1;1.75mm;-4.25mm;1.75mm;-4.25mm;1.75mm;-4.25mm;B;180;OUT
+C;WIRE-PAD_ROUND-.1;4.25mm;-1.75mm;4.25mm;-1.75mm;4.25mm;-1.75mm;B;180;VCC
+D1;MICROFC−30035−SMT;3mm;-3mm;3mm;-4mm;1.25mm;-4.75mm;T;0;SIPM 3MM
