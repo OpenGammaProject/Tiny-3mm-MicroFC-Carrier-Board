@@ -10,3 +10,5 @@ Tiny carrier board for a 3 mm C-Series MICROFC-60035-SMT silicon photomultiplier
 On the front side there is only the sensor itself and the two connections are on the back. This ensures good optical contact and light-tight sealing.
 
 To connect the sensor, solder wires to the anode `A` and cathode `C` pads of the PCB. These are connected straight to the respective pads on the SiPM.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
