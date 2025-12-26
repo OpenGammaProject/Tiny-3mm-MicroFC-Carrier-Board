@@ -1,6 +1,6 @@
 # Tiny 3mm MicroFC SiPM Carrier Board
 
-Tiny carrier board for a 3 mm C-Series MICROFC-60035-SMT silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf). PCB size is 6 x 6 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/Tiny-3mm-MicroFC-Carrier-Board) (non-affiliated).
+Tiny carrier board for a 3 mm C-Series MICROFC-60035-SMT silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf). PCB size is 6 x 6 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything.
 
 <p align="center">
   <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/pcb_front.png" height="300px">
